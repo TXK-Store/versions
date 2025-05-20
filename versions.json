@@ -4,12 +4,12 @@
         "descricao": "Sistema de Peds"
     },
     "TXK_balloon": {
-        "versao": "1.0.0",
+        "versao": "2.0.2",
         "descricao": "Sistema de Balões"
     },
     "TXK_UFC": {
-        "versao": "1.0.0",
-        "descricao": "Sistema UFC"
+        "versao": "0.0.5",
+        "descricao": "Sistema de luta UFC"
     },
     "TXK_legendaries": {
         "versao": "1.0.0",
@@ -28,15 +28,71 @@
         "descricao": "Sistema de notificação em zonas"
     },
     "TXK_Ped_Doutor": {
-        "versao": "1.0.0",
+        "versao": "0.0.3",
         "descricao": "Sistema de Pedd Medico"
     },
     "TXK_faxina": {
-        "versao": "1.0.0",
+        "versao": "0.0.3",
         "descricao": "Sistema de Trabalho de faxina"
     },
     "TXK_exportador": {
-        "versao": "1.0.0",
+        "versao": "0.0.5",
         "descricao": "Sistema de Exportaação/importação de items"
+    },
+    "TXK_feno_job": {
+        "versao": "0.0.4",
+        "descricao": "Sistema de Trabalho de feno"
+    },
+    "TXK_mochilasslots": {
+        "versao": "0.0.1",
+        "descricao": "Sistema de aumentar bolsa dos players"
+    },
+    "TXK_tamanho_character": {
+        "versao": "1.0.0",
+        "descricao": "Sistema de aumentar o tamanho dos players"
+    },
+    "TXK_entregaVips": {
+        "versao": "1.0.0",
+        "descricao": "Sistema de entrega de beneficios vips automatico"
+    },
+    "TXK_legendaries": {
+        "versao": "1.0.0",
+        "descricao": "Sistema de caças de animais lendaarios"
+    },
+    "TXK_lavagemdinheiro": {
+        "versao": "0.0.2",
+        "descricao": "Sistema de lavagem de dinheiro sujo"
+    },
+    "TXK_vendanpc": {
+        "versao": "0.0.2",
+        "descricao": "Sistema de venda de drogas"
+    },
+    "TXK_vendapeles": {
+        "versao": "0.0.7",
+        "descricao": "Sistema de venda de peles e carnes de animais"
+    },
+    "TXK_Status_server": {
+        "versao": "0.0.7",
+        "descricao": "Sistema de status e anuncios"
+    },
+    "TXK_visaoaguia": {
+        "versao": "0.0.1",
+        "descricao": "Sistema de visão de aguia ativo"
+    },
+    "TXK_passaroCacador": {
+        "versao": "0.0.1",
+        "descricao": "Sistema de passaros caçadores"
+    },
+    "TXK_goldpan": {
+        "versao": "0.0.1",
+        "descricao": "Sistema de bateia de ouro em rios"
+    },
+    "TXK_FastUse": {
+        "versao": "0.0.1",
+        "descricao": "Sistema de uso rapido de items"
+    },
+    "TXK_Roubos": {
+        "versao": "0.0.3",
+        "descricao": "Sistema de roubos"
     },
 } 
