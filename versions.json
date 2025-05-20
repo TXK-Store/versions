@@ -1,0 +1,22 @@
+{
+    "TXK_Sistem_peds": {
+        "versao": "1.0.0",
+        "descricao": "Sistema de Peds"
+    },
+    "TXK_UFC": {
+        "versao": "1.0.0",
+        "descricao": "Sistema UFC"
+    },
+    "TXK_legendaries": {
+        "versao": "1.0.0",
+        "descricao": "Sistema de Lendários"
+    },
+    "TXK_admin": {
+        "versao": "1.0.1",
+        "descricao": "Sistema de Utils Admin"
+    },
+    "TXK_version_monitor": {
+        "versao": "1.0.0",
+        "descricao": "Sistema de Monitoramento de Versões"
+    }
+} 
