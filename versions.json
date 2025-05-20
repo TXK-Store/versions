@@ -3,6 +3,10 @@
         "versao": "1.0.0",
         "descricao": "Sistema de Peds"
     },
+    "TXK_balloon": {
+        "versao": "1.0.0",
+        "descricao": "Sistema de Balões"
+    },
     "TXK_UFC": {
         "versao": "1.0.0",
         "descricao": "Sistema UFC"
