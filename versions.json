@@ -34,5 +34,9 @@
     "TXK_faxina": {
         "versao": "1.0.0",
         "descricao": "Sistema de Trabalho de faxina"
-    }
+    },
+    "TXK_exportador": {
+        "versao": "1.0.0",
+        "descricao": "Sistema de Exportaação/importação de items"
+    },
 } 
