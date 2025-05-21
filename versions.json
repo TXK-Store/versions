@@ -95,4 +95,8 @@
         "versao": "0.0.3",
         "descricao": "Sistema de roubos"
     },
+    "TXK_premiodiario": {
+        "versao": "0.0.1",
+        "descricao": "Sistema de Premio diario"
+    },
 } 
