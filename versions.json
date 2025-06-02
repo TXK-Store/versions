@@ -36,7 +36,7 @@
         "descricao": "Sistema de Trabalho de faxina"
     },
     "TXK_exportador": {
-        "versao": "0.0.5",
+        "versao": "0.0.6",
         "descricao": "Sistema de Exportaação/importação de items"
     },
     "TXK_feno_job": {
