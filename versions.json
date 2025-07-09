@@ -72,7 +72,7 @@
         "descricao": "Sistema de venda de peles e carnes de animais"
     },
     "TXK_Status_server": {
-        "versao": "0.0.8",
+        "versao": "0.0.9",
         "descricao": "Sistema de status e anuncios"
     },
     "TXK_visaoaguia": {
