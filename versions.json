@@ -16,7 +16,7 @@
         "descricao": "Sistema de Lendários"
     },
     "TXK_admin": {
-        "versao": "0.0.5",
+        "versao": "0.0.6",
         "descricao": "Sistema de Utils Admin"
     },
     "TXK_version_monitor": {
@@ -96,7 +96,7 @@
         "descricao": "Sistema de roubos"
     },
     "TXK_premiodiario": {
-        "versao": "0.0.1",
+        "versao": "0.0.2",
         "descricao": "Sistema de Premio diario"
     },
 } 
