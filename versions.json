@@ -20,7 +20,7 @@
         "descricao": "Sistema de Utils Admin"
     },
     "TXK_version_monitor": {
-        "versao": "0.0.2",
+        "versao": "0.0.3",
         "descricao": "Sistema de Monitoramento de Versões"
     },
     "TXK_safe_zone": {
@@ -100,3 +100,4 @@
         "descricao": "Sistema de Premio diario"
     },
 } 
+
