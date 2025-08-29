@@ -68,7 +68,7 @@
         "descricao": "Sistema de venda de drogas"
     },
     "TXK_vendapeles": {
-        "versao": "0.0.8",
+        "versao": "0.0.9",
         "descricao": "Sistema de venda de peles e carnes de animais"
     },
     "TXK_Status_server": {
@@ -100,4 +100,5 @@
         "descricao": "Sistema de Premio diario"
     },
 } 
+
 
