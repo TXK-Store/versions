@@ -99,7 +99,12 @@
         "versao": "0.0.2",
         "descricao": "Sistema de Premio diario"
     },
+    "TXK_mina": {
+        "versao": "0.0.2",
+        "descricao": "Sistema de Mineracao em minas"
+    },
 } 
+
 
 
 
