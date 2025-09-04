@@ -103,7 +103,12 @@
         "versao": "0.0.2",
         "descricao": "Sistema de Mineracao em minas"
     },
+    "TXK_lumberjack": {
+        "versao": "0.0.1",
+        "descricao": "Sistema interativo de cortar madeira"
+    },
 } 
+
 
 
 
