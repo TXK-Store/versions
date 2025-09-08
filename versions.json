@@ -100,7 +100,7 @@
         "descricao": "Sistema de Premio diario"
     },
     "TXK_mina": {
-        "versao": "0.0.2",
+        "versao": "0.0.3",
         "descricao": "Sistema de Mineracao em minas"
     },
     "TXK_lumberjack": {
@@ -108,6 +108,7 @@
         "descricao": "Sistema interativo de cortar madeira"
     },
 } 
+
 
 
 
