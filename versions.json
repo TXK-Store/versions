@@ -40,7 +40,7 @@
         "descricao": "Sistema de Exportaação/importação de items"
     },
     "TXK_feno_job": {
-        "versao": "0.0.4",
+        "versao": "0.0.2",
         "descricao": "Sistema de Trabalho de feno"
     },
     "TXK_mochilasslots": {
@@ -108,6 +108,7 @@
         "descricao": "Sistema interativo de cortar madeira"
     },
 } 
+
 
 
 
